@@ -44,12 +44,12 @@ public class Calculator {
 	}
 
 	public void calculate() {
-		/* Hier auf Grund der vorhanden Werte entscheiden
-		 * welche Methode unten aufgerufen werden muss.
-		 */
+		iAusPundR(leistung,widerstand);
 	}
-	
-	/* Hier die Methoden mit den Formlen hinzufügen
-	 */
+
+	//Feature 3 Nils Chapman
+	public double iAusPundR(double p,double r){
+		return Math.sqrt(p / r);
+	}
 	
 }
