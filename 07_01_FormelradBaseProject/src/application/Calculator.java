@@ -45,11 +45,16 @@ public class Calculator {
 
 	public void calculate() {
 		iAusPundR(leistung,widerstand);
+		iAusPundU(leistung,spannung);
 	}
 
 	//Feature 3 Nils Chapman
 	public double iAusPundR(double p,double r){
 		return Math.sqrt(p / r);
+	}
+
+	public double iAusPundU(double p,double u){
+		return p/u;
 	}
 	
 }
