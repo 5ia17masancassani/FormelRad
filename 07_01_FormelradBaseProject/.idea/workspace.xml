@@ -17,13 +17,15 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/application/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1617">
-              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            <state relative-caret-position="1691">
+              <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding>
                 <element signature="e#958#959#0" expanded="true" />
                 <element signature="e#979#980#0" expanded="true" />
                 <element signature="e#1025#1026#0" expanded="true" />
                 <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -291,12 +293,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540190079316</updated>
       <workItem from="1540190085660" duration="816000" />
-      <workItem from="1541401062973" duration="745000" />
+      <workItem from="1541401062973" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1661000" />
+    <option name="totallyTimeSpent" value="1891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
@@ -352,6 +354,8 @@
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -387,6 +391,8 @@
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -422,6 +428,8 @@
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -457,6 +465,8 @@
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -492,6 +502,8 @@
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -530,13 +542,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/application/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="1691">
+          <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
           <folding>
             <element signature="e#958#959#0" expanded="true" />
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
