@@ -44,13 +44,17 @@ public class Calculator {
 	}
 
 	public void calculate() {
-		
+
 
 	}
 
 	//Feature 4 Nils Chapman
 	public double rAusUundP(double u,double p){
 		return (u*u)/p;
+	}
+
+	public double rAusPundI(double p,double i){
+		return p / (i*i);
 	}
 
 
