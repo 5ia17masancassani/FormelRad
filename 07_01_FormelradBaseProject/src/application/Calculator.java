@@ -44,12 +44,22 @@ public class Calculator {
 	}
 
 	public void calculate() {
-		/* Hier auf Grund der vorhanden Werte entscheiden
-		 * welche Methode unten aufgerufen werden muss.
-		 */
+
+
 	}
-	
-	/* Hier die Methoden mit den Formlen hinzufügen
-	 */
-	
+
+	//Feature 4 Nils Chapman
+	public double rAusUundP(double u,double p){
+		return (u*u)/p;
+	}
+
+	public double rAusPundI(double p,double i){
+		return p / (i*i);
+	}
+
+	public double rAusUundI(double u, double i){
+		return u/i;
+	}
+
+
 }
