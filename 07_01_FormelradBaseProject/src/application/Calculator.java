@@ -61,5 +61,16 @@ public class Calculator {
 		return u/i;
 	}
 
+	//Feature 3 Nils Chapman
+	public double iAusPundR(double p,double r){
+		return Math.sqrt(p / r);
+	}
 
+	public double iAusPundU(double p,double u){
+		return p/u;
+	}
+
+	public double iAusUundR(double u,double r){
+		return u / r;
+	}
 }
